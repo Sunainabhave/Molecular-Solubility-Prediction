@@ -37,6 +37,7 @@ This project predicts the aqueous solubility (LogS) of molecules using molecular
 
 ```bash
 pip install -r requirements.txt
+```
 
 Notes
 
